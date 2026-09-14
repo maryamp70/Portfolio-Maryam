@@ -36,6 +36,13 @@ body {
     color 0.3s ease;
 }
 
+.logo {
+  font-family: "Caveat", cursive;
+  font-size: 1.5rem !important;
+  font-weight: 600;
+  color: var(--color-primary);
+  letter-spacing: 1px;
+}
 
 h1,
 h2,
